@@ -1,4 +1,4 @@
-#### Navn: Ola Nordmann
+Navn: Ola Nordmann
 #### Kjønn: Mann
 #### Fødelsdato: 01.01.1909
 #### Statsborgerskap: Norge
